@@ -1,8 +1,10 @@
-Package structure:
-src\main\java\labelinsighttest\MissingLetters.java
-src\main\java\labelinsighttest\Animation.java
+# **Package structure:**
 
-Test cases for animation class:
-src\test\java\labelinsighttest\AnimationTest
+- src\main\java\labelinsighttest\MissingLetters.java
+- src\main\java\labelinsighttest\Animation.java
 
-Both classes also contain test variables/references in the main() method.
+# **Test cases for animation class:**
+
+- src\test\java\labelinsighttest\AnimationTest
+
+*Both classes also contain test variables/references in the main() method.*
